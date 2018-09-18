@@ -1,0 +1,7 @@
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\bin\Debug\Client.exe.config
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\bin\Debug\Client.exe
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\bin\Debug\Client.pdb
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\obj\Debug\Client.exe
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\obj\Debug\Client.pdb
+C:\Users\ssrivastava\source\repos\HotelWCF\Client\obj\Debug\Client.csprojAssemblyReference.cache
