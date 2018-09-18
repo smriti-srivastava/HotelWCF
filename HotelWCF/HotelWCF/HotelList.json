@@ -1,0 +1,34 @@
+﻿[
+  {
+
+    "HotelId": "1",
+    "HotelName": "Royal Orchid Central",
+    "HotelAddress": "Pune",
+    "HotelRating": "4"
+  },
+  {
+    "HotelId": "2",
+    "HotelName": "Hotel Studio Estique",
+    "HotelAddress": "Pune",
+    "HotelRating": "3"
+  },
+  {
+    "HotelId": "3",
+    "HotelName": "FabHotel Gandharva, Shivajinagar",
+    "HotelAddress": "Pune",
+    "HotelRating": "4"
+  },
+  {
+    "HotelId": "4",
+    "HotelName": "Novotel",
+    "HotelAddress": "Pune",
+    "HotelRating": "4"
+  },
+  {
+    "HotelId": "5",
+    "HotelName": "Hotel Central Park",
+    "HotelAddress": "Pune",
+    "HotelRating": "3"
+  }
+
+]
